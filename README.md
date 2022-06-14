@@ -1,4 +1,22 @@
-## Welcome to GitHub Pages
+## VITS trained on LibriTTS from espnet
+
+
+
+speaker | 1 | 2 | 3 | 4 |
+--------|---|---|---|---|
+original | <audio src="samples/test_1.wav" controls preload></audio> | <audio src="samples/test_2.wav" controls preload></audio> | <audio src="samples/test_3.wav" controls preload></audio> | <audio src="samples/test_4.wav" controls preload></audio>
+--------|---|---|---|---|
+speaker 1 | <audio src="samples/test_1_1_0.5.wav" controls preload></audio> | <audio src="samples/test_1_2_0.5.wav" controls preload></audio> | <audio src="samples/test_1_3_0.5.wav" controls preload></audio> | <audio src="samples/test_1_4_0.5.wav" controls preload></audio>
+speaker 2 |  | <audio src="samples/test_2_2_0.5.wav" controls preload></audio> | <audio src="samples/test_2_3_0.5.wav" controls preload></audio> | <audio src="samples/test_2_4_0.5.wav" controls preload></audio>
+speaker 3 |  |  | <audio src="samples/test_3_3_0.5.wav" controls preload></audio> | <audio src="samples/test_3_4_0.5.wav" controls preload></audio>
+speaker 4 |  |  |  | <audio src="samples/test_4_4_0.5.wav" controls preload></audio>
+--------|---|---|---|---|
+speaker 1 |  | <audio src="samples/test_1_2_0.3.wav" controls preload></audio> | <audio src="samples/test_1_3_0.3.wav" controls preload></audio> | <audio src="samples/test_1_4_0.3.wav" controls preload></audio>
+speaker 2 | <audio src="samples/test_2_1_0.3.wav" controls preload></audio> |  | <audio src="samples/test_2_3_0.3.wav" controls preload></audio> | <audio src="samples/test_2_4_0.3.wav" controls preload></audio>
+speaker 3 | <audio src="samples/test_3_1_0.3.wav" controls preload></audio> | <audio src="samples/test_3_2_0.3.wav" controls preload></audio> |  | <audio src="samples/test_3_4_0.3.wav" controls preload></audio>
+speaker 4 | <audio src="samples/test_4_1_0.3.wav" controls preload></audio> | <audio src="samples/test_4_2_0.3.wav" controls preload></audio> | <audio src="samples/test_4_3_0.3.wav" controls preload></audio> | 
+
+
 
 You can use the [editor on GitHub](https://github.com/Lemlak/examples/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
